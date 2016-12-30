@@ -2,8 +2,6 @@ Large margin distribution machine for hyperspectral image classification
 
 Note: Find LDM Package at: http://lamda.nju.edu.cn/code_LDM.ashx
 
-In this paper, a large margin distribution machine (LDM) is applied to HSI classification
-
 If you use these codes, please cite the paper:
 
 @Article{ZhanJEI2016dec,
