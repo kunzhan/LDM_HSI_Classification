@@ -1,7 +1,5 @@
 Large margin distribution machine for hyperspectral image classification
 
-Note: Find LDM Package at: http://lamda.nju.edu.cn/code_LDM.ashx
-
 If you use these codes, please cite the paper:
 
 @Article{ZhanJEI2016dec,
@@ -18,3 +16,5 @@ If you use these codes, please cite the paper:
 If you have any questions, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
 
 http://www.escience.cn/people/kzhan
+
+Note: Find LDM Package at: http://lamda.nju.edu.cn/code_LDM.ashx
