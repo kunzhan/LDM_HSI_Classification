@@ -1,5 +1,3 @@
-Large margin distribution machine for hyperspectral image classification
-
 If you use these codes, please cite the paper:
 
 @Article{ZhanJEI2016dec,
