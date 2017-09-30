@@ -11,7 +11,7 @@ If you use these codes, please cite the paper:
   doi =     {10.1117/1.JEI.25.6.063024}
 }
 
-If you have any questions, Feel free to contact with me. (Email: ice.echo#gmail.com)
+If you have any questions, Feel free to contact me. (Email: ice.echo#gmail.com)
 
 http://www.escience.cn/people/kzhan
 
